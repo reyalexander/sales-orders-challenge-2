@@ -34,16 +34,16 @@ python manage.py runserver
 
 ## 6. Para ver la documentacion con Swagger
 
-http://127.0.0.1:8000/swagger/
-http://127.0.0.1:8000/redoc/
+- http://127.0.0.1:8000/swagger/
+- http://127.0.0.1:8000/redoc/
 
 
 ## 5. Para probar los Endpoints
 
 ### Para hacer el CRUD de User
-http://127.0.0.1:8000/user
+http://127.0.0.1:8000/user/
 
--Crear Usuario nuevo
+- Crear Usuario nuevo
 
 ```json
 {
